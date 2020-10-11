@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/.github.io/TODO-ADD-ITEMS/static/css/main.5f361e03.chunk.css",
+    "main.js": "/.github.io/TODO-ADD-ITEMS/static/js/main.bca6cdbf.chunk.js",
+    "main.js.map": "/.github.io/TODO-ADD-ITEMS/static/js/main.bca6cdbf.chunk.js.map",
+    "runtime-main.js": "/.github.io/TODO-ADD-ITEMS/static/js/runtime-main.1a226251.js",
+    "runtime-main.js.map": "/.github.io/TODO-ADD-ITEMS/static/js/runtime-main.1a226251.js.map",
+    "static/js/2.d060ad9f.chunk.js": "/.github.io/TODO-ADD-ITEMS/static/js/2.d060ad9f.chunk.js",
+    "static/js/2.d060ad9f.chunk.js.map": "/.github.io/TODO-ADD-ITEMS/static/js/2.d060ad9f.chunk.js.map",
+    "index.html": "/.github.io/TODO-ADD-ITEMS/index.html",
+    "precache-manifest.00fb1ad963fdac02d0b67f5e90cf1d7a.js": "/.github.io/TODO-ADD-ITEMS/precache-manifest.00fb1ad963fdac02d0b67f5e90cf1d7a.js",
+    "service-worker.js": "/.github.io/TODO-ADD-ITEMS/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/.github.io/TODO-ADD-ITEMS/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d060ad9f.chunk.js.LICENSE.txt": "/.github.io/TODO-ADD-ITEMS/static/js/2.d060ad9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a226251.js",
+    "static/js/2.d060ad9f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bca6cdbf.chunk.js"
+  ]
+}
